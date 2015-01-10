@@ -4,8 +4,8 @@
   "description": "NodeExpress",
   "main": "app.js",
   "author": {
-    "name": "Chris",
-    "email": ""
+    "name": "Chris Gomez",
+    "email": "chris@chrisgomez.com"
   },
   "dependencies": {
     "express": "3.4.4",
